@@ -6,7 +6,6 @@ pywin32==227
 zipp==3.4.0
 lockfile==0.12.2
 gensim==3.8.1
-~pype1==1.2.1
 importlib_metadata==2.0.0
 lxml==4.6.1
 streamlit==0.82.0
