@@ -2,7 +2,6 @@ cryptography==3.1.1
 seaborn==0.11.0
 numpy==1.20.3
 brotlipy==0.7.0
-pywin32==227
 zipp==3.4.0
 lockfile==0.12.2
 gensim==3.8.1
