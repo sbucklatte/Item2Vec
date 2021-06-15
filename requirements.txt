@@ -19,4 +19,4 @@ ordereddict==1.1
 Pillow==8.2.0
 protobuf==3.17.3
 pyOpenSSL==20.0.1
-wincertstore==0.2.1
+
