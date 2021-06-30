@@ -10,9 +10,9 @@ Python과 gensim, Apriori 라이브러리를 활용
 
 학습에 사용된 파라미터는 mincount = 50, window = 5, size = 300, model = Skip-gram
 
-streamlit와 heroku를 통해 웹공유
+학습결과는 streamlit와 heroku를 통해 웹형태로 공유
 
-https://w2v-web.herokuapp.com/ 통해 상품간 유사도 결과를 확인가능
+https://w2v-web.herokuapp.com/ 통해 상품간 유사도 결과 확인가능
 
 ㅇ File Index
  * w2v_Learning.py : 작성 코드(Item2vec 활용)
