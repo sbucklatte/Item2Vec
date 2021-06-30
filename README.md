@@ -20,4 +20,4 @@ https://w2v-web.herokuapp.com/ 통해 상품간 유사도 결과를 확인가능
  * app.py : 학습모델 활용 시각화 및 streamlit 웹 출판용
  * requirements.txt : 사용한 프로그램 및 라이브러리
  * w2v_mincnt50_win10~ : ML학습 모델 
- * Procfile, setup.sh : stteamlit 업로드용 파일
+ * Procfile, setup.sh : steamlit 업로드용 파일
