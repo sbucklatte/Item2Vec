@@ -2,7 +2,7 @@
 
 Word2vec 알고리즘을 응용한 Item2Vec 방식으로 상품간 연관성을 도출
 
-python gensim, Apriori 라이브러리를 활용
+Python과 gensim, Apriori 라이브러리를 활용
 
 머신러닝 학습을 통해 상품간 동시에 구매가 이루어지는 상품을 벡터화하여 유사도 결과 산출
 
