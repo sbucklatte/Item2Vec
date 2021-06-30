@@ -14,8 +14,8 @@ streamlit와 heroku를 통해 웹공유
 
 https://w2v-web.herokuapp.com/ 통해 상품간 유사도 결과를 확인가능
 
-file index
-* app.py : 전체코드
-* requirements.txt : 사용한 프로그램 및 라이브러리
-* w2v_mincnt50_win10~ : ML학습 모델 
-* Procfile, setup.sh : stteamlit 업로드용 파일
+* file index
+ ** app.py : 전체코드
+ ** requirements.txt : 사용한 프로그램 및 라이브러리
+ ** w2v_mincnt50_win10~ : ML학습 모델 
+ ** Procfile, setup.sh : stteamlit 업로드용 파일
